@@ -1,16 +1,51 @@
-## Hi there 👋
+#  Olá, eu sou o Mikael
 
-<!--
-**Dev-Mike-088/Dev-Mike-088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Estudante de Desenvolvimento de Software Multiplataforma na Fatec  
+ Focado em Backend e construção de base sólida em programação  
+ Buscando oportunidade de estágio em desenvolvimento de software  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mim
+
+Sou estudante focado em entender profundamente os fundamentos de programação, lógica e estrutura de dados.  
+Gosto de construir projetos práticos que reforcem minha base técnica e evoluir constantemente através de desafios reais.
+
+---
+
+## Tecnologias e Ferramentas
+
+- Java (POO, lógica, estruturas básicas)
+- Git e GitHub (aprendendo)
+- Conceitos de Backend
+- Estrutura de Dados (em evolução)
+- Banco de Dados (aprendendo)
+
+---
+
+## Objetivo
+
+Atuar como estagiário na área de desenvolvimento de software, contribuindo com projetos reais enquanto evoluo tecnicamente e profissionalmente.
+
+---
+
+##  Projetos em Destaque
+
+🔹 Protótipo-Sistema-Bancário-V1
+🔹 Protótipo-Sistema-Bancário-V2  
+
+(Em constante atualização)
+
+---
+
+## Atualmente estudando
+
+- Estruturas de Dados
+- Backend
+- Boas práticas de desenvolvimento
+- Git e GitHub
+
+---
+
+## Contato:  
+Se quiser conversar sobre tecnologia ou oportunidades, estou aberto a conexões.
