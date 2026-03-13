@@ -8,8 +8,8 @@
 
 ## Sobre mim
 
-Sou estudante focado em entender profundamente os fundamentos de programação, lógica e estrutura de dados.  
-Gosto de construir projetos práticos que reforcem minha base técnica e evoluir constantemente através de desafios reais.
+Sou um estudante focado em entender profundamente os fundamentos de programação, lógica e estrutura de dados.  
+Gosto de construir projetos práticos para reforçar minha base técnica e evoluir constantemente através de desafios reais.
 
 ---
 
