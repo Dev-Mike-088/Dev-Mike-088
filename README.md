@@ -33,7 +33,8 @@ Atuar como estagiário na área de desenvolvimento de software, contribuindo com
 
 🔹 Protótipo-Sistema-Bancário-V1
 🔹 Protótipo-Sistema-Bancário-V2  
-🔹Jogo de adivinhação de número
+🔹 Jogo de adivinhação de número
+🔹 CRUD com JDBC
 
 (Em constante atualização)
 
